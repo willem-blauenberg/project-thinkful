@@ -1,0 +1,7 @@
+I have learnt the basic commands of init, add, commit, the importance of the message, remote add origin and push/pull.
+
+I am still struggling with the word "origin" and its place in 'git remote add origin https://' and 'git push -u origin master'
+
+I have also larnt how to create branches and merge the documents. Even tho I have tried to provoque a conflict editing the same lines of the same file when merging, it doesnt appear the conflic and fusionates it resulting only in the last modification and deleting what was previously written.
+
+I have also learnt a few 'confg --global' modifications as for example using Sublime Text when 'start filename.txt' as the default editor.
